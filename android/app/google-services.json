@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "750400010391",
+    "project_id": "oblwallet-fccd1",
+    "storage_bucket": "oblwallet-fccd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750400010391:android:97e3ecbde76b2bc65f91d2",
+        "android_client_info": {
+          "package_name": "com.oneblocklabs.atlaswallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750400010391-jl788sqt6hlq3tb6ecov2d38f8n3hpvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxcx0KPywZK4_0jblq25wYt7AI9NXXeIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750400010391-jl788sqt6hlq3tb6ecov2d38f8n3hpvt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "750400010391-8q9g8lia5k118nk932j6vr7thu923u54.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oneblocklabs.atlaswallet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

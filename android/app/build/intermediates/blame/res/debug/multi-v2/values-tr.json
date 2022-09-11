@@ -1,0 +1,111 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/daihiep/Projects/obl-wallet-app/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tr/values-tr.xml",
+            "map": [
+                {
+                    "source": "/Users/daihiep/.gradle/caches/transforms-2/files-2.1/344c732fd3ff442fe96cd9726f7e8bcb/jetified-play-services-basement-18.0.0/res/values-tr/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "142",
+                        "endOffsets": "337"
+                    },
+                    "to": {
+                        "startLines": "37",
+                        "startColumns": "4",
+                        "startOffsets": "3813",
+                        "endColumns": "146",
+                        "endOffsets": "3955"
+                    }
+                },
+                {
+                    "source": "/Users/daihiep/.gradle/caches/transforms-2/files-2.1/4d376c7956dc9d57986e4f60e27be948/browser-1.2.0/res/values-tr/values-tr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,155,261,368",
+                        "endColumns": "99,105,106,104",
+                        "endOffsets": "150,256,363,468"
+                    },
+                    "to": {
+                        "startLines": "48,50,51,52",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "5154,5346,5452,5559",
+                        "endColumns": "99,105,106,104",
+                        "endOffsets": "5249,5447,5554,5659"
+                    }
+                },
+                {
+                    "source": "/Users/daihiep/.gradle/caches/transforms-2/files-2.1/adb0a5b87d36f0d4f9dfd188332d92a0/jetified-play-services-base-18.0.1/res/values-tr/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "193,299,450,582,683,826,952,1075,1177,1345,1448,1601,1731,1872,2035,2093,2153",
+                        "endColumns": "105,150,131,100,142,125,122,101,167,102,152,129,140,162,57,59,75",
+                        "endOffsets": "298,449,581,682,825,951,1074,1176,1344,1447,1600,1730,1871,2034,2092,2152,2228"
+                    },
+                    "to": {
+                        "startLines": "29,30,31,32,33,34,35,36,38,39,40,41,42,43,44,45,46",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2797,2907,3062,3198,3303,3450,3580,3707,3960,4132,4239,4396,4530,4675,4842,4904,4968",
+                        "endColumns": "109,154,135,104,146,129,126,105,171,106,156,133,144,166,61,63,79",
+                        "endOffsets": "2902,3057,3193,3298,3445,3575,3702,3808,4127,4234,4391,4525,4670,4837,4899,4963,5043"
+                    }
+                },
+                {
+                    "source": "/Users/daihiep/.gradle/caches/transforms-2/files-2.1/37cfc779f0daba40f3cbaaef7f16bb67/biometric-1.1.0/res/values-tr/values-tr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,161,253,372,501,626,770,887,1030,1125,1249,1390",
+                        "endColumns": "105,91,118,128,124,143,116,142,94,123,140,137",
+                        "endOffsets": "156,248,367,496,621,765,882,1025,1120,1244,1385,1523"
+                    },
+                    "to": {
+                        "startLines": "47,49,53,54,55,56,57,58,59,60,61,62",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "5048,5254,5664,5783,5912,6037,6181,6298,6441,6536,6660,6801",
+                        "endColumns": "105,91,118,128,124,143,116,142,94,123,140,137",
+                        "endOffsets": "5149,5341,5778,5907,6032,6176,6293,6436,6531,6655,6796,6934"
+                    }
+                },
+                {
+                    "source": "/Users/daihiep/.gradle/caches/transforms-2/files-2.1/e76506480dfb8b4d22ae6e83eaf0a317/appcompat-1.1.0/res/values-tr/values-tr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,219,318,430,515,621,741,821,897,988,1080,1172,1266,1367,1460,1562,1657,1748,1839,1917,2024,2128,2224,2331,2434,2543,2699,2797",
+                        "endColumns": "113,98,111,84,105,119,79,75,90,91,91,93,100,92,101,94,90,90,77,106,103,95,106,102,108,155,97,78",
+                        "endOffsets": "214,313,425,510,616,736,816,892,983,1075,1167,1261,1362,1455,1557,1652,1743,1834,1912,2019,2123,2219,2326,2429,2538,2694,2792,2871"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,63",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,219,318,430,515,621,741,821,897,988,1080,1172,1266,1367,1460,1562,1657,1748,1839,1917,2024,2128,2224,2331,2434,2543,2699,6939",
+                        "endColumns": "113,98,111,84,105,119,79,75,90,91,91,93,100,92,101,94,90,90,77,106,103,95,106,102,108,155,97,78",
+                        "endOffsets": "214,313,425,510,616,736,816,892,983,1075,1167,1261,1362,1455,1557,1652,1743,1834,1912,2019,2123,2219,2326,2429,2538,2694,2792,7013"
+                    }
+                },
+                {
+                    "source": "/Users/daihiep/.gradle/caches/transforms-2/files-2.1/60894a3f5437b2462480bc9c82a43ff2/core-1.6.0/res/values-tr/values-tr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "64",
+                        "startColumns": "4",
+                        "startOffsets": "7018",
+                        "endColumns": "100",
+                        "endOffsets": "7114"
+                    }
+                }
+            ]
+        }
+    ]
+}

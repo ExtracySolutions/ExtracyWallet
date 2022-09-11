@@ -1,0 +1,21 @@
+com/oblwallet/BuildConfig.java
+ com.oblwallet.BuildConfig
+com/oblwallet/NotificationExtraPermissionsModule.java
+ com.oblwallet.NotificationExtraPermissionsModule
+com/oblwallet/MainApplication.java
+ com.oblwallet.MainApplication
+ com.oblwallet.MainApplication$1
+com/oblwallet/ReactNativeFlipper.java
+ com.oblwallet.ReactNativeFlipper
+ com.oblwallet.ReactNativeFlipper$1
+ com.oblwallet.ReactNativeFlipper$2
+ com.oblwallet.ReactNativeFlipper$2$1
+com/oblwallet/MainActivity.java
+ com.oblwallet.MainActivity
+ com.oblwallet.MainActivity$1
+com/oblwallet/NotificationServiceExtension.java
+ com.oblwallet.NotificationServiceExtension
+com/oblwallet/NotificationExtraPermissionsPackage.java
+ com.oblwallet.NotificationExtraPermissionsPackage
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

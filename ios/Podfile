@@ -1,0 +1,53 @@
+require_relative '../node_modules/react-native/scripts/react_native_pods'
+require_relative '../node_modules/@react-native-community/cli-platform-ios/native_modules'
+
+platform :ios, '12.0'
+
+target 'OneSignalNotificationServiceExtension' do
+  pod 'OneSignalXCFramework', '>= 3.0', '< 4.0'
+end
+
+target 'OBLWallet' do
+  config = use_native_modules!
+  
+  use_react_native!(:path => config[:reactNativePath], :hermes_enabled => false)
+  
+  permissions_path = '../node_modules/react-native-permissions/ios'
+  pod 'Permission-Camera', :path => "#{permissions_path}/Camera"
+  pod 'Permission-FaceID', :path => "#{permissions_path}/FaceID"
+  pod 'RNFS', :path => '../node_modules/react-native-fs'
+  pod 'react-native-splash-screen', :path => '../node_modules/react-native-splash-screen'
+  pod 'react-native-onesignal', :path => '../node_modules/react-native-onesignal'
+
+  pod 'RNKeychain', :path => '../node_modules/react-native-keychain'
+
+  target 'OBLWalletTests' do
+    inherit! :complete
+    # Pods for testing
+  end
+  # Enables Flipper.
+  #
+  # Note that if you have use_frameworks! enabled, Flipper will not work and
+  # you should disable the next line.
+  use_flipper!({ 'Flipper' => '0.131.1' })
+  
+  post_install do |installer|
+    react_native_post_install(installer)
+    flipper_post_install(installer)
+    installer.pods_project.targets.each do |target|
+      if target.name == 'CocoaAsyncSocket'
+        source_file = target.source_build_phase.files
+        source_file.each do |file|
+          if file.file_ref.name == 'GCDAsyncUdpSocket.m'
+            source_file.delete file
+          end
+        end
+      end
+    end
+    installer.pods_project.targets.each do |target|
+      target.build_configurations.each do |config|
+        config.build_settings['APPLICATION_EXTENSION_API_ONLY'] = 'NO'
+      end
+    end
+  end
+end

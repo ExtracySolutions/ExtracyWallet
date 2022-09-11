@@ -1,0 +1,77 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/daihiep/Projects/obl-wallet-app/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rXC/values-en-rXC.xml",
+            "map": [
+                {
+                    "source": "/Users/daihiep/.gradle/caches/transforms-2/files-2.1/e76506480dfb8b4d22ae6e83eaf0a317/appcompat-1.1.0/res/values-en-rXC/values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,310,510,719,904,1106,1321,1494,1671,1862,2055,2253,2449,2652,2847,3044,3239,3432,3623,3807,4011,4216,4417,4624,4826,5031,5303,5503",
+                        "endColumns": "204,199,208,184,201,214,172,176,190,192,197,195,202,194,196,194,192,190,183,203,204,200,206,201,204,271,199,178",
+                        "endOffsets": "305,505,714,899,1101,1316,1489,1666,1857,2050,2248,2444,2647,2842,3039,3234,3427,3618,3802,4006,4211,4412,4619,4821,5026,5298,5498,5677"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,45",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,310,510,719,904,1106,1321,1494,1671,1862,2055,2253,2449,2652,2847,3044,3239,3432,3623,3807,4011,4216,4417,4624,4826,5031,5303,8983",
+                        "endColumns": "204,199,208,184,201,214,172,176,190,192,197,195,202,194,196,194,192,190,183,203,204,200,206,201,204,271,199,178",
+                        "endOffsets": "305,505,714,899,1101,1316,1489,1666,1857,2050,2248,2444,2647,2842,3039,3234,3427,3618,3802,4006,4211,4412,4619,4821,5026,5298,5498,9157"
+                    }
+                },
+                {
+                    "source": "/Users/daihiep/.gradle/caches/transforms-2/files-2.1/60894a3f5437b2462480bc9c82a43ff2/core-1.6.0/res/values-en-rXC/values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "203",
+                        "endOffsets": "254"
+                    },
+                    "to": {
+                        "startLines": "46",
+                        "startColumns": "4",
+                        "startOffsets": "9162",
+                        "endColumns": "203",
+                        "endOffsets": "9361"
+                    }
+                },
+                {
+                    "source": "/Users/daihiep/.gradle/caches/transforms-2/files-2.1/4d376c7956dc9d57986e4f60e27be948/browser-1.2.0/res/values-en-rXC/values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,256,455,667",
+                        "endColumns": "200,198,211,195",
+                        "endOffsets": "251,450,662,858"
+                    },
+                    "to": {
+                        "startLines": "30,32,33,34",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "5712,6106,6305,6517",
+                        "endColumns": "200,198,211,195",
+                        "endOffsets": "5908,6300,6512,6708"
+                    }
+                },
+                {
+                    "source": "/Users/daihiep/.gradle/caches/transforms-2/files-2.1/37cfc779f0daba40f3cbaaef7f16bb67/biometric-1.1.0/res/values-en-rXC/values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,264,457,676,908,1149,1379,1600,1833,2035,2264,2505",
+                        "endColumns": "208,192,218,231,240,229,220,232,201,228,240,221",
+                        "endOffsets": "259,452,671,903,1144,1374,1595,1828,2030,2259,2500,2722"
+                    },
+                    "to": {
+                        "startLines": "29,31,35,36,37,38,39,40,41,42,43,44",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "5503,5913,6713,6932,7164,7405,7635,7856,8089,8291,8520,8761",
+                        "endColumns": "208,192,218,231,240,229,220,232,201,228,240,221",
+                        "endOffsets": "5707,6101,6927,7159,7400,7630,7851,8084,8286,8515,8756,8978"
+                    }
+                }
+            ]
+        }
+    ]
+}

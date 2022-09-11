@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="/usr/local/Cellar/gradle/7.1/libexec" />
+        <option name="gradleJvm" value="azul-11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/../node_modules/@react-native-clipboard/clipboard/android" />
+            <option value="$PROJECT_DIR$/../node_modules/@react-native-community/async-storage/android" />
+            <option value="$PROJECT_DIR$/../node_modules/@react-native-community/blur/android" />
+            <option value="$PROJECT_DIR$/../node_modules/@react-native-community/checkbox/android" />
+            <option value="$PROJECT_DIR$/../node_modules/@react-native-community/masked-view/android" />
+            <option value="$PROJECT_DIR$/../node_modules/@react-native-community/netinfo/android" />
+            <option value="$PROJECT_DIR$/../node_modules/@react-native-firebase/analytics/android" />
+            <option value="$PROJECT_DIR$/../node_modules/@react-native-firebase/app/android" />
+            <option value="$PROJECT_DIR$/../node_modules/@react-native-firebase/crashlytics/android" />
+            <option value="$PROJECT_DIR$/../node_modules/@toruslabs/customauth-react-native-sdk/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-aes-crypto-forked/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-aes-crypto/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-camera/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-device-info/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-encrypted-storage/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-fast-image/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-flipper/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-fs/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-keychain/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-linear-gradient/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-onesignal/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-os/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-pager-view/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-permissions/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-randombytes/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-reanimated/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-safe-area-context/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-screens/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-share/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-snackbar/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-splash-screen/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-sqlite-storage/platforms/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-svg/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-tcp/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-udp/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-view-shot/android" />
+            <option value="$PROJECT_DIR$/../node_modules/react-native-webview/android" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
